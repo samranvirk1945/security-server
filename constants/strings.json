@@ -1,0 +1,63 @@
+{
+    "response": {
+        "success": {
+            "login": "Login Successfully",
+            "signup": "You Have Registered Successfully",
+            "otp": "OTP",
+            "user_created": "User Created Successfully",
+            "get": "Get Successfully",
+            "added": "Added Successfully",
+            "updated": "Updated Successfully",
+            "feedbackSuccess": "Success! thank you for your feedback",
+            "payment": "Payment Successfully done",
+            "send": "Send Successfully",
+            "delete": "Deleted Successfully",
+            "admin_created":"New Admin Created Successfully",
+            "book_successfully": "Booked Successfully",
+"job_start":"Started Successfully",
+"completed_start":"Completed Successfully",
+"cancel_job":"Cancelled Successfully"
+
+
+
+            
+        },
+        "error": {
+            "email_exist": "Email Already Exists",
+            "phone_exist": "Phone already exist",
+            "phone_not_exist": "Phone not exists",
+            "email_not_exist": "Email Does Not Exist",
+            "email_required": "Email Is Required",
+            "firstname_required": "First Name is required",
+            "lastname_required": "Last Name is required",
+            "password_required": "Password is required",
+            "fcmToken_required":"Fcm Token is required",
+            "rights_required": "Please Assign Atleast One Role",
+            "type_required": "Type Is Required",
+            "required_field_missing": "Required fields missing",
+            "invalid_email": "Invalid Email",
+            "invalid_password": "Invalid Password",
+            "prohibited_action": "Prohibited Action",
+            "already_booked":"Job Already Booked",
+            "another_started":"Already Job Is In Progress",
+            "job_expired":"Job Expired",
+            "all_booked":"All Jobs Booked",
+            "cannot_cancel_job":"Can Not Cancel A Job, 24 Hour Remaining",
+            "job_not_found":"Job Not Found",
+            "cancel_jobs_exced":"Your Account Has Been Deactivated Due To Cancelled Number Of Job Exceed"
+
+        },
+        "middleware": {
+            "token_missing": "Auth Token Is Missing",
+            "token_invalid": "Auth Token Is Invalid",
+            "url_restricted": "Restricted URL"
+        }
+    },
+    "db": {
+        "success": "Connection has been established Successfully.",
+        "error": "Unable to connect to the database:"
+    },
+    "server": {
+        "success": "The server is running at localhost:"
+    }
+}

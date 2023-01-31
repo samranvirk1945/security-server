@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "ug1hirpd4yjexfqevgg9",
+    "password": "x9CnQdcVrupbpwFNo1hm",
+    "database": "bv0d95fcevcmsficiivp",
+    "host": "bv0d95fcevcmsficiivp-postgresql.services.clever-cloud.com",
+    "dialect": "postgres"
+  }
+}

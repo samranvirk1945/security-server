@@ -1,0 +1,10 @@
+node_modules*
+*.zip
+*.pem
+images/*
+files/*
+videos/*
+thumbnails/*
+.env
+.vscode/*
+.vscode*
